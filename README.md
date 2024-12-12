@@ -1,4 +1,4 @@
-# Kredi Kartı Giriş Formu
+# Anmeldeformular für Kreditkarten
 
 ## Projektbeschreibung
 
